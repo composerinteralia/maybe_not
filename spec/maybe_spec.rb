@@ -1,4 +1,4 @@
-require 'maybe'
+require 'maybe_not'
 
 describe Maybe do
   context "when called with nil" do
